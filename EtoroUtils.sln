@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoroUtils", "EtoroUtils\EtoroUtils.csproj", "{5BADF1DC-FEBB-4EDF-B9BD-83C3C216733B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoroUtils.Desktop", "EtoroUtils.Desktop\EtoroUtils.Desktop.csproj", "{B1CDF8A2-59A3-4126-9B1D-A6DB18D666FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BADF1DC-FEBB-4EDF-B9BD-83C3C216733B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BADF1DC-FEBB-4EDF-B9BD-83C3C216733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BADF1DC-FEBB-4EDF-B9BD-83C3C216733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BADF1DC-FEBB-4EDF-B9BD-83C3C216733B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CDF8A2-59A3-4126-9B1D-A6DB18D666FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CDF8A2-59A3-4126-9B1D-A6DB18D666FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CDF8A2-59A3-4126-9B1D-A6DB18D666FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CDF8A2-59A3-4126-9B1D-A6DB18D666FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFF8705-D9ED-4F0A-89C5-62E9F9B8427A}
+	EndGlobalSection
+EndGlobal
